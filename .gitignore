@@ -1,0 +1,87 @@
+# OS generated files #
+######################
+.DS_Store
+Icon?
+nohup.out
+ehthumbs.db
+Thumbs.db
+
+
+# SASS #
+########
+.sass-cache
+
+# EDITORS #
+###########
+\#*
+.#*
+*#
+\#*#
+*~
+*.sw[a-z]
+*.bak
+REVISION
+TAGS*
+tmtags
+*_flymake.*
+*_flymake
+*.tmproj
+.project
+.settings
+mkmf.log
+*.un~
+
+
+
+## COMPILED ##
+##############
+a.out
+*.o
+*.pyc
+*.so
+*.com
+*.class
+*.dll
+*.exe
+*/rdoc/
+
+# Testing #
+###########
+.watchr
+.rspec
+
+# Berkshelf #
+#############
+Berksfile.lock
+berks-cookbooks/*
+cookbooks/*
+vendor/*
+tmp
+
+# Strainer #
+############
+.colander
+.strainer
+
+# Vagrant #
+###########
+.vagrant
+
+# Ruby gems #
+#######
+.rvmrc
+.ruby-version
+Gemfile.lock
+bin/*
+.bundle/*
+
+# test kitchen #
+################
+.kitchen/
+.kitchen.local.yml
+
+
+# editors #
+###########
+.idea
+
