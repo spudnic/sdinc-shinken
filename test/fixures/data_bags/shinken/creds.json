@@ -1,6 +1,8 @@
 {
   "id": "creds",
   "shinken": {
-    "testuser": "SomeThing"
+    "testuser": "SomeThing",
+    "testuser1": "SomeThing1"
+
   }
 }

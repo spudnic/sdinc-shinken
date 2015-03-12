@@ -28,7 +28,7 @@ suites:
   - name: default
     run_list:
       - recipe[sdinc-shinken::default]
-    encrypted_data_bag_secret_key_path: test/fixures/encrypted_data_bag_secret
+    encrypted_data_bag_secret_key_path: test/integration/encrypted_data_bag_secret
     attributes:
       shinken:
         install_type: source
