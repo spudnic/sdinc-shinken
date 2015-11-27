@@ -34,5 +34,5 @@ rake with no parameters does a berks vendor
   - knife foodcritic
   - rspec
 - rake ci:integration
-  -kitchen test
+  - kitchen test
 
