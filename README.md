@@ -29,10 +29,10 @@ Include `sdinc-shinken` in your run_list.
 ## Testing
 rake with no parameters does a berks vendor
 
-rake ci:unit
-*rubocop
-*knife foodcritic
-*rspec
-rake ci:integration
-*kitchen test
+- rake ci:unit
+  - rubocop
+- knife foodcritic
+  - rspec
+- rake ci:integration
+  -kitchen test
 
