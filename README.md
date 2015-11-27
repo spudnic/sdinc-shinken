@@ -31,7 +31,7 @@ rake with no parameters does a berks vendor
 
 - rake ci:unit
   - rubocop
-- knife foodcritic
+  - knife foodcritic
   - rspec
 - rake ci:integration
   -kitchen test
